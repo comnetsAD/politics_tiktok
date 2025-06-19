@@ -1,0 +1,4 @@
+"","Inter-Rater Reliability (Krippendorf's Alpha)","Accuracy","Cohen Kappa","F1 Score"
+"Question 1","0.886","0.965","0.930","0.965"
+"Question 2","0.851","0.970","0.940","0.970"
+"Question 3","0.886","0.957","0.936","0.784"
